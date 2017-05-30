@@ -17,7 +17,7 @@ funded-who      :
 when-day        : wed,thu,fri
 ticket          : 2x24h
 status          : empty
-working-sessions:
+working-sessions: DATA BEHIND OWASP TOP 10 2017, Implications of Owasp Top 10 2017, Agile Practices for Security Teams
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
